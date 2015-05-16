@@ -5,3 +5,7 @@ it is only a partial snapshot of your working directory - that would be all the 
 
 you can find the difference between files in the staging area and ensure only one
 logical change per commit has been made. 
+
+branches are useful when you want to try new things, or make different versions
+of the master branch. this allows you to keep a working version rather than
+overwriting the master branch with changes that may not work
