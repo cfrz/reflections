@@ -9,3 +9,7 @@ logical change per commit has been made.
 branches are useful when you want to try new things, or make different versions
 of the master branch. this allows you to keep a working version rather than
 overwriting the master branch with changes that may not work
+
+diagrams allow me to see that there are commits that are unreachable, and 
+see the parent/child relationship between commits. they also allow me to see
+how branches are seperate from each other
