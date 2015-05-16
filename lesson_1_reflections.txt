@@ -1,0 +1,9 @@
+viewing the diff between 2 files let me zero in on what lines had the bug,
+and let me easily spot differences
+
+easy access to version control will allow you to find the differences between working 
+and non-working files, possibly illuminating bugs
+
+some version control systems use multi file commits because files are connected in
+such a way that ensure you have compatible versions of each file. otherwise they
+wouldn't work
