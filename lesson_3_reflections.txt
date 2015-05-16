@@ -1,1 +1,2 @@
-
+keeping a cloud based repository allows you to use multiple computers to work on files,
+allows you to collaborate with others on your project
