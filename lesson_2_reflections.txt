@@ -1,0 +1,5 @@
+you create a .git file that keeps track of all the files needed for a git repo
+
+the staging area is where you prepare files to be committed. it is not a repository
+it is only a partial snapshot of your working directory - that would be all the files
+
