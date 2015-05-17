@@ -3,3 +3,12 @@ allows you to collaborate with others on your project
 
 you would not want to pull automatically in case you do not want to accept changes to 
 your branch. a collaborator may not have made changes you intend to add to your master
+
+fork - when you want to use someone else's repo and give that dev credit. This just copies
+their work same as cloning would.
+
+clone - when you want to clone a repository, but you either have permission or access
+to do that
+
+branch - a branch is when you already have the repository and you want to make changes
+that are beyond what has been currently developed
