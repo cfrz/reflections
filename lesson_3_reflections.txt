@@ -1,2 +1,5 @@
 keeping a cloud based repository allows you to use multiple computers to work on files,
 allows you to collaborate with others on your project
+
+you would not want to pull automatically in case you do not want to accept changes to 
+your branch. a collaborator may not have made changes you intend to add to your master
